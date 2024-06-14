@@ -1,3 +1,5 @@
+# :warning: NOTE: This fork disables chat signing, so that we can cancel events. DO NOT USE UNLESS YOU KNOW WHAT YOU'RE DOING!
+
 # Velocity
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/PaperMC/Velocity/gradle.yml)](https://papermc.io/downloads/velocity)

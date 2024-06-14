@@ -92,7 +92,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.checkerframework.checker.nullness.qual.Nullable;
 
-/**
+/** 
  * Handles communication with the connected Minecraft client. This is effectively the primary nerve
  * center that joins backend servers with players.
  */
