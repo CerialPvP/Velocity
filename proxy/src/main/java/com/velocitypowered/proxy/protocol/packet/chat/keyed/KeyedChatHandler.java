@@ -54,7 +54,6 @@ public class KeyedChatHandler implements
     //     + "Disconnecting player " + player.getUsername());
     // player.disconnect(Component.text("A proxy plugin caused an illegal protocol state. "
     //     + "Contact your network administrator."));
-    logger.info("(DEBUG) Tried to kick "+player.getUsername()+" (invalid cancel)");
   }
 
   public static void invalidChange(Logger logger, ConnectedPlayer player) {
@@ -63,7 +62,6 @@ public class KeyedChatHandler implements
     //     + "Disconnecting player " + player.getUsername());
     // player.disconnect(Component.text("A proxy plugin caused an illegal protocol state. "
     //     + "Contact your network administrator."));
-    logger.info("(DEBUG) Tried to kick "+player.getUsername()+" (invalid change)");
   }
 
   @Override
